@@ -15,7 +15,7 @@ enum DayOfWeek
 class Program
 {
     static void Main()
-    {    /*
+    {    
           
         //Question 05 : Input Validation with Loops
 
@@ -142,7 +142,7 @@ class Program
         Console.WriteLine("C (70-79): " + gradeC);
         Console.WriteLine("D (60-69): " + gradeD);
         Console.WriteLine("F (Below 60): " + gradeF);
-        */
+        
 
         ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
